@@ -7,3 +7,4 @@ For example, if a web server has ports 80 (HTTP) and 443 (HTTPS) open, Nmap can 
 Network scanning is the process of examining a network to identify active devices, open ports, and available services. It is an essential practice for maintaining secure, reliable, and well-managed networks.
 # Ethical Use Guidelines
 Network scanning is a legitimate administrative and security activity, but it should always be conducted responsibly.
+Ethically, scanning should always be performed only with proper authorization, while respecting privacy, minimizing operational impact, protecting collected data, and using the results to strengthen—not compromise—the security of the systems being assessed.
